@@ -14,6 +14,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-sudo wget https://github.com/kiam001/releases/releases/download/2155-ProjectSakura-5.2-GAPPS-Basic-20210905-1819-vayu-OFFICIAL/ProjectSakura-5.2-GAPPS-Basic-20210905-1819-vayu-OFFICIAL.zip
+sudo wget https://github.com/PixelOS-Devices/builds/releases/download/2021-11-27/PixelOS_ginkgo-12.0-20211126-2104.zip
 
-export IS_DYNAMIC=true
+export IS_DYNAMIC=false
