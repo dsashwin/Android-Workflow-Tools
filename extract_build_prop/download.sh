@@ -14,6 +14,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-sudo wget https://github.com/PixelOS-Releases/releases-public/releases/download/2022-01-01/PixelOS_alioth-12.0-20220101-1329.zip
+sudo wget https://sourceforge.net/projects/projectsakura/files/ginkgo/ProjectSakura-5.2-GAPPS-Basic-20220104-2115-ginkgo-OFFICIAL.zip
 
-export IS_DYNAMIC=true
+export IS_DYNAMIC=false
