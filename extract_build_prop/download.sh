@@ -14,6 +14,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-sudo wget https://sourceforge.net/projects/projectsakura/files/ginkgo/ProjectSakura-5.2-GAPPS-Basic-20220104-2115-ginkgo-OFFICIAL.zip
+sudo wget https://master.dl.sourceforge.net/project/projectsakura/ginkgo/ProjectSakura-5.2-GAPPS-Basic-20220104-2115-ginkgo-OFFICIAL.zip
 
 export IS_DYNAMIC=false
