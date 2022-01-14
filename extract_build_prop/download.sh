@@ -14,6 +14,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-sudo wget https://master.dl.sourceforge.net/project/projectsakura/ginkgo/ProjectSakura-5.2-GAPPS-Basic-20220104-2115-ginkgo-OFFICIAL.zip
+sudo wget https://dl.google.com/dl/android/aosp/raven-sq1d.220105.007-factory-d8f6b8a4.zipL.zip
 
-export IS_DYNAMIC=false
+export IS_DYNAMIC=true
